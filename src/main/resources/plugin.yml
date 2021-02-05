@@ -1,0 +1,3 @@
+name: RandomSpawn
+version: @version@
+main: io.hikarilan.randomspawn.RandomSpawn

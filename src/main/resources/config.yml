@@ -1,0 +1,3 @@
+RandomTeleportRadius: 200
+Message:
+  Success: "你已随机出生在 [{x},{y},{z}]，祝你愉快！"
